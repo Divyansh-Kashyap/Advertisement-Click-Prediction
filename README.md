@@ -32,7 +32,6 @@ The dataset used for this project contains user interaction and demographic info
 - `Timestamp`
 - `Clicked on Ad` (Target Variable: 0 = No, 1 = Yes)
 
-> Dataset Source: [Can be specified here if public, e.g., Kaggle or UCI ML Repository]
 
 ---
 
